@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/gabrielv-oliveira)
+
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -64,7 +64,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=LuanderFarias&theme=tokyonight">
+      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielv-oliveira&count_private=true)">
     </img>
   </a>
 </p>
