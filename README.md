@@ -13,11 +13,8 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://www.electronjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://www.slack.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+   <a href="https://www.react.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
