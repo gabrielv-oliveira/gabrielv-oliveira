@@ -1,4 +1,4 @@
-# [Your Name] - Front-End Freelancer
+# Gabriel Oliveira - Front-End Freelancer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-<COLOR>.svg)](https://linkedin.com/in/gabriel-vinicius-de-souza-oliveira-898a24101)
 
