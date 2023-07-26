@@ -1,87 +1,41 @@
+# [Your Name] - Front-End Freelancer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolioURL-<COLOR>.svg)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-<COLOR>.svg)](https://linkedin.com/in/yourlinkedin)
 
-  <p align="center">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <a href="https://www.react.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
-</p>
+## About Me
 
-<h4 align="center">
+Hello! I'm [Your Name], a passionate Front-End Developer with a focus on creating visually appealing and user-friendly web experiences. As a freelancer, I work independently, providing high-quality services to clients on a project basis. My expertise lies in front-end development technologies, including HTML, CSS, JavaScript, and React JS. I value clear communication and attention to detail, ensuring that my clients' vision is translated into a pixel-perfect reality.
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é <sotrong>Gabriel Oliveira<strong></h1></img>
+## Services Offered
 
-<p align="center">
-  <a href="https://github.com/gabrielv-oliveira">
-    <img
-      align="center"
-      height="150em"
-      src="https://github.com/gabrielv-oliveira"
-    />
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
+- Front-End Development: Crafting responsive and interactive user interfaces using the latest web technologies.
+- Website Design: Creating visually stunning website designs that align with the brand identity and user experience requirements.
+- PSD to HTML: Converting design mockups or PSD files into pixel-perfect HTML and CSS.
+- Responsive Web Development: Ensuring seamless user experiences across various devices and screen sizes.
+- Web Performance Optimization: Implementing techniques to improve website loading speed and performance.
 
+## Portfolio
 
-<p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
+Check out some of my recent projects:
 
-<h3 align="center">Trabalhando em:</h3>
+- Project 1: [Project 1 Title](https://project1url.com)
+  ![Project 1 Screenshot](project1-screenshot.png)
 
-<p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
-    <img
-      align="center"
-      height="120em"
-      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielv-oliveira&count_private=true)">
-    </img>
-  </a>
-</p>
+- Project 2: [Project 2 Title](https://project2url.com)
+  ![Project 2 Screenshot](project2-screenshot.png)
 
-<h3 align="center">Sobre mim:</h3>
+- Project 3: [Project 3 Title](https://project3url.com)
+  ![Project 3 Screenshot](project3-screenshot.png)
 
-<p align="center">
-  <a href="https://instagram.com/gabuhvv/">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
-    />
-  </a>
-  </a>
+## Contact Me
 
-  <a href="https://www.linkedin.com/in/gabriel-vinicius-898a24101/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
- 
-</p>
-<h5 align="center">Seu @</h5>
+I'm always open to new projects and collaborations. If you're interested in working together or have any questions, feel free to reach out to me:
+
+- Portfolio: [YourPortfolioURL](https://yourportfolio.com)
+- LinkedIn: [YourLinkedInURL](https://linkedin.com/in/yourlinkedin)
+- Email: contact@gabrielvoliveira.com
+- Phone: +351 960169746
+
+Let's build something amazing together!
 
