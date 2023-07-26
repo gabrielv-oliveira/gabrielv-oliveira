@@ -1,11 +1,10 @@
 # [Your Name] - Front-End Freelancer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolioURL-<COLOR>.svg)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-<COLOR>.svg)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-<COLOR>.svg)](https://linkedin.com/in/gabriel-vinicius-de-souza-oliveira-898a24101)
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate Front-End Developer with a focus on creating visually appealing and user-friendly web experiences. As a freelancer, I work independently, providing high-quality services to clients on a project basis. My expertise lies in front-end development technologies, including HTML, CSS, JavaScript, and React JS. I value clear communication and attention to detail, ensuring that my clients' vision is translated into a pixel-perfect reality.
+Hello! I'm Gabriel Oliveira, a passionate Front-End Developer with a focus on creating visually appealing and user-friendly web experiences. As a freelancer, I work independently, providing high-quality services to clients on a project basis. My expertise lies in front-end development technologies, including HTML, CSS, JavaScript, and React JS. I value clear communication and attention to detail, ensuring that my clients' vision is translated into a pixel-perfect reality.
 
 ## Services Offered
 
@@ -20,13 +19,10 @@ Hello! I'm [Your Name], a passionate Front-End Developer with a focus on creatin
 Check out some of my recent projects:
 
 - Project 1: [Vip Ana](https://vipana.pt)
-  ![Project 1 Screenshot](project1-screenshot.png)
 
 - Project 2: [Personal Site](https://gabrielvoliveira.com)
-  ![Project 2 Screenshot](project2-screenshot.png)
 
 - Project 3: [Horizontal Video Gallery with Overlay Effect](https://codepen.io/gabrielvoliveira/pen/NWEzXXL)
-  ![Project 3 Screenshot](project3-screenshot.png)
 
 ## Contact Me
 
