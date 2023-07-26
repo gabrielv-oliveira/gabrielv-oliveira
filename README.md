@@ -19,21 +19,20 @@ Hello! I'm [Your Name], a passionate Front-End Developer with a focus on creatin
 
 Check out some of my recent projects:
 
-- Project 1: [Project 1 Title](https://project1url.com)
+- Project 1: [Vip Ana](https://vipana.pt)
   ![Project 1 Screenshot](project1-screenshot.png)
 
-- Project 2: [Project 2 Title](https://project2url.com)
+- Project 2: [Personal Site](https://gabrielvoliveira.com)
   ![Project 2 Screenshot](project2-screenshot.png)
 
-- Project 3: [Project 3 Title](https://project3url.com)
+- Project 3: [Horizontal Video Gallery with Overlay Effect](https://codepen.io/gabrielvoliveira/pen/NWEzXXL)
   ![Project 3 Screenshot](project3-screenshot.png)
 
 ## Contact Me
 
 I'm always open to new projects and collaborations. If you're interested in working together or have any questions, feel free to reach out to me:
 
-- Portfolio: [YourPortfolioURL](https://yourportfolio.com)
-- LinkedIn: [YourLinkedInURL](https://linkedin.com/in/yourlinkedin)
+- LinkedIn: [My LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/gabriel-vinicius-de-souza-oliveira-898a24101/))
 - Email: contact@gabrielvoliveira.com
 - Phone: +351 960169746
 
